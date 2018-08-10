@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_MLX90621	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setRefreshRate	KEYWORD2
+setResolution	KEYWORD2
+initMLX90621	KEYWORD2
+measureTemperature		KEYWORD2
+getTemperature	KEYWORD2
+getAmbientTemperature	KEYWORD2
+getMinTemperature	KEYWORD2
+getMaxTemperature	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
