@@ -25,8 +25,8 @@ void loop(){
         Serial.println("]");
     }
     Ta   = mlx90621.getAmbientTemperature();                 //Get the ambient temperature
-    Tmin = mlx90621.getMinTemperature();                     //Get the Minimum temperature in matrix
-    Tmax = mlx90621.getMaxTemperature();                     //Get the Maximum temperature in matrix
+    Tmin = mlx90621.getMinTemperature();                     //Get the minimum temperature in matrix
+    Tmax = mlx90621.getMaxTemperature();                     //Get the maximum temperature in matrix
     Serial.print("Ambient temperature = ");
     Serial.println(Ta);
     Serial.print("Minimum temperature = ");

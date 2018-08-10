@@ -66,6 +66,8 @@ float getMinTemperature(void);
  */
 float getMaxTemperature(void);
 
+```
+
 ## History
 
 - data 2018-8-10
